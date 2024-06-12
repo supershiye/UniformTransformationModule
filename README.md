@@ -15,5 +15,5 @@ The UT module aims to reshape these irregular summaries into more regular, unifo
 By integrating the UT module into VAEs, my research demonstrated significant improvements in the disentanglement and interpretability of latent representations, which is crucial for various automation applications.
 
 ## Instructions
-This repository contains the UT module code and data to replicate the experimental from the paper.
+This repository contains the UT module code to replicate the experimental from the paper.
 TBD
