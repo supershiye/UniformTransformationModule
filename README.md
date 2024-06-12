@@ -1,5 +1,6 @@
 # Uniform Transformation: Refining Latent Representation in Variational Autoencoders
 Ye Shi, C. S. George Lee
+
 Accepted by CASE 2024
 ## Overview
 The Uniform Transformation (UT) module is a novel approach introduced in my research to address irregular distributions in the latent space of Variational Autoencoders (VAEs). VAEs are a type of artificial intelligence model used to compress and then reconstruct data, creating compact representations of complex information. However, these models often face issues with how they summarize data, leading to irregularities that can negatively impact their performance.
